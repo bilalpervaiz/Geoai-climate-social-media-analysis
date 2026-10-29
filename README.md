@@ -35,9 +35,3 @@ The main Python packages used include `geopandas`, `pandas`, `bertopic`, `umap-l
 **School programme:** [IT:U – Earth Observation and GeoAI for Climate-Resilient Urban Systems](https://it-u.at/en/earth-observation-and-geoai-for-climate-resilient-urban-systems/#program)
 
 **Acknowledgement:** Thank you to the school organizers, instructors, and IEEE GRSS community for the opportunity to learn and explore interdisciplinary GeoAI approaches to climate resilience.
-
-If publishing this notebook publicly, please confirm that the workshop materials and any associated data are permitted to be redistributed, and add the individual original authors' names and applicable license where provided.
-
-## Purpose
-
-To document and share the methods learned during the school and encourage further exploration of how geospatial AI and human-generated data can contribute to climate research and resilience planning.
